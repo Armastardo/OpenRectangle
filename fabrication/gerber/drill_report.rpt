@@ -1,5 +1,5 @@
 Drill report for OpenRectangle.kicad_pcb
-Created on Thu Jan 12 02:14:33 2023
+Created on Fri Jan 13 02:25:48 2023
 
 Copper Layer Stackup:
     =============================================================
@@ -10,22 +10,24 @@ Copper Layer Stackup:
 Drill file 'OpenRectangle.drl' contains
     plated through holes:
     =============================================================
-    T1  0.300mm  0.0118"  (21 holes)
-    T2  0.350mm  0.0138"  (3 holes)
+    T1  0.300mm  0.0118"  (32 holes)
+    T2  0.350mm  0.0138"  (2 holes)
     T3  0.350mm  0.0138"  (9 holes)
-    T4  0.400mm  0.0157"  (12 holes)
-    T5  0.500mm  0.0197"  (4 holes)  (with 4 slots)
-    T6  3.000mm  0.1181"  (40 holes)
+    T4  0.400mm  0.0157"  (2 holes)
+    T5  0.400mm  0.0157"  (12 holes)
+    T6  0.500mm  0.0197"  (4 holes)  (with 4 slots)
+    T7  1.524mm  0.0600"  (40 holes)
+    T8  3.000mm  0.1181"  (40 holes)
 
-    Total plated holes count 89
+    Total plated holes count 141
 
 
 Not plated through holes are merged with plated holes
     unplated through holes:
     =============================================================
-    T7  0.650mm  0.0256"  (2 holes)
-    T8  0.991mm  0.0390"  (3 holes)
-    T9  1.750mm  0.0689"  (40 holes)
-    T10  3.988mm  0.1570"  (20 holes)
+    T9  0.650mm  0.0256"  (2 holes)
+    T10  0.991mm  0.0390"  (3 holes)
+    T11  1.750mm  0.0689"  (80 holes)
+    T12  3.988mm  0.1570"  (40 holes)
 
-    Total unplated holes count 65
+    Total unplated holes count 125
