@@ -5,6 +5,7 @@ Comment,Designator,Footprint,LCSC
 22pF,"C15,C16",Capacitor_SMD:C_0402_1005Metric,C1555
 Schottky Diode,"D1,D2",qw-footprints:CUSTOM D_SOD-123,C130880
 Fuse_Small,F1,Fuse:Fuse_1206_3216Metric,
+Logo,H11,qw-logo:qw new logo mask md,
 USB C Connector,J1,qw-footprints:TYPE-C_24P_QCHT,C456013
 10k,R1,Resistor_SMD:R_0402_1005Metric,C25744
 27R,"R2,R3",Resistor_SMD:R_0603_1608Metric,C25190
